@@ -1,0 +1,10 @@
+﻿  源.c
+D:\编译原理\htsy3\htsy3\源.c(140,22): warning C4013: “atoi”未定义；假设外部返回 int
+D:\编译原理\htsy3\htsy3\源.c(143,24): warning C4013: “scanner”未定义；假设外部返回 int
+D:\编译原理\htsy3\htsy3\源.c(341,33): warning C4013: “malloc”未定义；假设外部返回 int
+D:\编译原理\htsy3\htsy3\源.c(397,13): warning C4013: “itoa”未定义；假设外部返回 int
+D:\编译原理\htsy3\htsy3\源.c(413,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\编译原理\htsy3\htsy3\源.c(452,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\编译原理\htsy3\htsy3\源.c(481,6): error C2371: “scanner”: 重定义；不同的基类型
+D:\编译原理\htsy3\htsy3\源.c(663,9): warning C4098: “main”:“void”函数返回值
+D:\编译原理\htsy3\htsy3\源.c(676,5): warning C4098: “main”:“void”函数返回值

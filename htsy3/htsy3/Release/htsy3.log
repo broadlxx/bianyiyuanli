@@ -1,0 +1,14 @@
+﻿  源.c
+D:\编译原理\htsy3\htsy3\源.c(260,22): warning C4013: “atoi”未定义；假设外部返回 int
+D:\编译原理\htsy3\htsy3\源.c(464,33): warning C4013: “malloc”未定义；假设外部返回 int
+D:\编译原理\htsy3\htsy3\源.c(523,13): warning C4013: “itoa”未定义；假设外部返回 int
+D:\编译原理\htsy3\htsy3\源.c(539,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\编译原理\htsy3\htsy3\源.c(578,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\编译原理\htsy3\htsy3\源.c(691,9): warning C4098: “main”:“void”函数返回值
+D:\编译原理\htsy3\htsy3\源.c(704,5): warning C4098: “main”:“void”函数返回值
+  正在生成代码
+  1 of 21 functions ( 4.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  htsy3.vcxproj -> D:\编译原理\htsy3\Release\htsy3.exe

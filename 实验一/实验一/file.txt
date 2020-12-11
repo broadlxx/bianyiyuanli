@@ -1,0 +1,1 @@
+if myid>=8 then x:=2.6E-2
