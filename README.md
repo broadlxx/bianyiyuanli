@@ -1,0 +1,5 @@
+# bianyiyuanli
+
+如果使用VS2019 需要在属性 与处理中添加
+_CRT_SECURE_NO_WARNINGS
+_CRT_NONSTDC_NO_DEPRECATE
